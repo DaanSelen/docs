@@ -1,8 +1,8 @@
 # PowerDNS-Admin installation guide:
 
-##### Author: Daan Selen.
+Author: Daan Selen.
 
-##### Thanks to this [HowToForge Tutorial](https://www.howtoforge.com/how-to-install-powerdns-admin-on-ubuntu-20-04/).
+Thanks to this [HowToForge Tutorial](https://www.howtoforge.com/how-to-install-powerdns-admin-on-ubuntu-20-04/).
 
 <br/>
 
