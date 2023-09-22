@@ -13,6 +13,9 @@ This is handy because this tutorial gives a step-by-step explanation on how to d
 [How to install Metrics Server onto a running Kubernetes cluster](https://www.linuxtechi.com/how-to-install-kubernetes-metrics-server/)<br>
 Metrics Server can be used to monitor a kubernetes cluser its nodes and pods.
 
+[Calico Documentation](https://docs.tigera.io/calico/latest/about/)<br>
+What is Calico and how does it work.
+
 Handy commands for loading docker images into containerd runtime:
 ```
 sudo ctr --namespace=k8s.io images import /path/on/remote/node/image.tar
