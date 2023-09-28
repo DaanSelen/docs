@@ -16,6 +16,10 @@ Metrics Server can be used to monitor a kubernetes cluser its nodes and pods.
 [Calico Documentation](https://docs.tigera.io/calico/latest/about/)<br>
 What is Calico and how does it work.
 
+[Youtube how to deploy NFS-Storage guide](https://www.youtube.com/watch?v=efa8gwmbPms)<br>
+[Kubernetes NFS-Container Storage Interface (CSI) GitHub](https://github.com/kubernetes-csi/csi-driver-nfs)<br>
+How to setup NFS-Storage for Kubernetes, with needed GitHub.
+
 Handy commands for loading docker images into containerd runtime:
 ```
 sudo ctr --namespace=k8s.io images import /path/on/remote/node/image.tar
