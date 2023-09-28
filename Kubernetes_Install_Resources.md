@@ -20,6 +20,9 @@ What is Calico and how does it work.
 [Kubernetes NFS-Container Storage Interface (CSI) GitHub](https://github.com/kubernetes-csi/csi-driver-nfs)<br>
 How to setup NFS-Storage for Kubernetes, with needed GitHub.
 
+[How to change the default port range in nodePort, using Calico](https://www.thinkcode.se/blog/2019/02/20/kubernetes-service-node-port-range)
+Handy for custom port ranges if needed and only known ports are used.
+
 Handy commands for loading docker images into containerd runtime:
 ```
 sudo ctr --namespace=k8s.io images import /path/on/remote/node/image.tar
