@@ -23,6 +23,10 @@ How to setup NFS-Storage for Kubernetes, with needed GitHub.
 [How to change the default port range in nodePort, using Calico](https://www.thinkcode.se/blog/2019/02/20/kubernetes-service-node-port-range)
 Handy for custom port ranges if needed and only known ports are used.
 
+[How the Kubernetes Scheduler works](https://www.youtube.com/watch?v=rDCWxkvPlAw)
+[Kubernetes Descheduler](https://github.com/kubernetes-sigs/descheduler)
+[Small Kubernetes Descheduler Explanation](https://www.sobyte.net/post/2023-04/k8s-descheduler/)
+
 Handy commands for loading docker images into containerd runtime:
 ```
 sudo ctr --namespace=k8s.io images import /path/on/remote/node/image.tar
