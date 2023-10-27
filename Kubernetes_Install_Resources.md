@@ -18,6 +18,7 @@ What is Calico and how does it work.
 
 [Youtube how to deploy NFS-Storage guide](https://www.youtube.com/watch?v=efa8gwmbPms)<br>
 [Kubernetes NFS-Container Storage Interface (CSI) GitHub](https://github.com/kubernetes-csi/csi-driver-nfs)<br>
+[MicroK8S Install guide](https://microk8s.io/docs/nfs)<br>
 How to setup NFS-Storage for Kubernetes, with needed GitHub.
 
 [How to change the default port range in nodePort, using Calico](https://www.thinkcode.se/blog/2019/02/20/kubernetes-service-node-port-range)
