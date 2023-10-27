@@ -17,6 +17,7 @@ Metrics Server can be used to monitor a kubernetes cluser its nodes and pods.
 What is Calico and how does it work.
 
 [Youtube how to deploy NFS-Storage guide](https://www.youtube.com/watch?v=efa8gwmbPms)<br>
+[Written version of that Youtube video](https://askcloudarchitech.com/posts/tutorials/add-nfs-shared-storage-microk8s-cluster/)<br>
 [Kubernetes NFS-Container Storage Interface (CSI) GitHub](https://github.com/kubernetes-csi/csi-driver-nfs)<br>
 [MicroK8S Install guide](https://microk8s.io/docs/nfs)<br>
 How to setup NFS-Storage for Kubernetes, with needed GitHub.
